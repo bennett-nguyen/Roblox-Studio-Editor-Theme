@@ -1,0 +1,38 @@
+Text Color: 255, 255, 255
+Background Color: 36, 40, 47
+Selection Color: 255, 255, 255
+Selection Background Color: 40, 70, 103
+Operator Color: 249, 116, 130
+Number Color: 121, 185, 254
+String Color: 159, 203, 254
+Comment Color: 107, 114, 125
+Keyword Color: 249, 116, 130
+Error Color: 255, 0, 0
+Warning Color: 255, 115, 21
+Find Selection Background Color: 64, 63, 48
+Matching Word Background Color: 35, 79, 82
+Built-in Function Color: 121, 185, 254
+Whitespace Color: 69, 77, 87
+Current Line Highlight Color: 42, 49, 54
+Debugger Current Line Color: 42, 60, 76
+Debugger Error Line Color: 76, 42, 42
+Local Method Color: 121, 185, 254
+Local Property Color: 178, 147, 240
+"nil Color": 121, 185, 254
+Bool Color: 121, 185, 254
+"function" Color: 249, 116, 130
+"local" Color: 249, 116, 130
+"self" Color: 121, 185, 254
+Luau Keyword Color: 249, 116, 130
+Function Name Color: 178, 147, 240
+TODO Color: 249, 116, 130
+Script Ruler Color: 69, 77, 87
+Script Bracket Color: 255, 210, 1
+Documentation Code Block Background Color: 66, 66, 66
+Menu Primary Text Color: 255, 255, 255
+Menu Secondary Text Color: 102, 102, 102
+Menu Selected Color: 138, 194, 254
+Menu Item Background: 31, 37, 41
+Selected Menu Item Background: 56, 65, 75
+Script Editor Scrollbar Background: 56, 65, 75
+Script Editor Scrollbar Handle: 31, 37, 41
