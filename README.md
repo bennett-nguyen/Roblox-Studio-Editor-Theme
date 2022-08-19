@@ -11,6 +11,7 @@ Most of the themes are taken from Visual Studio Code, others include Vim and oth
 - [Tokyo Night](./tokyo-night/)
 - [Gruvbox](./gruvbox/)
 - [Github theme](./github-theme/)
+- [Dracula](./dracula/)
 
 ## Applying theme
 To apply a theme to your editor, you have to do it manually since this is not a plugin.
