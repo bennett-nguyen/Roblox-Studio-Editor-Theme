@@ -31,7 +31,7 @@ Script Bracket Color: 255, 210, 1
 Documentation Code Block Background Color:66, 66, 66
 Menu Primary Text Color: 183, 189, 200
 Menu Secondary Text Color: 102, 102, 102
-Menu Selected Color: 255, 255, 255
+Menu Selected Text Color: 255, 255, 255
 Menu Item Background: 32, 37, 42
 Selected Menu Item Background: 44, 49, 58
 Script Editor Scrollbar Background: 44, 49, 58
