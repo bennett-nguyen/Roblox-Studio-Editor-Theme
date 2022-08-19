@@ -4,7 +4,7 @@ Selection Color: 235, 219, 178
 Selection Background Color: 80, 72, 68
 Operator Color: 229, 242, 255
 Number Color: 216, 151, 169
-String Color: 184, 186, 55
+String Color: 216, 151, 169
 Comment Color: 102, 102, 102
 Keyword Color: 251, 72, 53
 Error Color: 255, 0, 0
@@ -31,7 +31,7 @@ Script Bracket Color: 255, 210, 1
 Documentation Code Block Background Color: 66, 66, 66
 Menu Primary Text Color: 251, 219, 178
 Menu Secondary Text Color: 102, 102, 102
-Menu Selected Color: 143, 191, 127
+Menu Selected Text Color: 143, 191, 127
 Menu Item Background: 41, 41, 40
 Selected Menu Item Background: 60, 56, 54
 Script Editor Scrollbar Background: 60, 56, 54
